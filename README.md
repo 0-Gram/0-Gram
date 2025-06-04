@@ -20,6 +20,7 @@
 - ✍️ Sharing bug bounty write-ups & testing notes  
 - 🧪 Occasionally solving CTFs  
 - 🎯 Focus on real-world vulnerabilities & automation tricks
+- 💻 Reverse Enginering
 
 ---
 
