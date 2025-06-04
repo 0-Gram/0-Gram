@@ -10,7 +10,7 @@
 
 - 🔍 **Roles**: Bug Bounty Hunter, Web Pentester, Cybersecurity Enthusiast  
 - 💻 **Language**: Python, PHP & C
-- 🧠 **Interest**: Bug bounty write-up, CTF write-up, real-world attack scenarios  
+- 🧠 **Interest**: Bug bounty write-up, CTF write-up, Reverse Enginering 
 - 📄 **Style**: Clean. Fast. Focused. Terminal-driven.
 
 ---
