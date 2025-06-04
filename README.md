@@ -31,9 +31,3 @@
 </p>
 
 ---
-
-### 🕶️ Terminal Vibe
-
-<p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" />
-</p>
